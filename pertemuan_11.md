@@ -1,7 +1,7 @@
-Nama : Bintang Bahari
-Kelas : Informatika A2
-Npm : 41155050210064
-Tugas Pertemuan 11
+Nama : Bintang Bahari<br>
+Kelas : Informatika A2<br>
+Npm : 41155050210064<br>
+Tugas Pertemuan 11<br>
 1.
 ![image](https://github.com/user-attachments/assets/dd929ba9-6459-42a0-aea1-60f44702458e)
 
